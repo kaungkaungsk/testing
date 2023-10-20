@@ -1,1 +1,3 @@
-Hello, this is uploading some text to GitHub from Android app.
+{"name" : "Kaung",
+"IDE" : "Sketchware"
+}

@@ -1,2 +1,1 @@
-Hello, GitHub!
- Testing from android app
+This is about my text.

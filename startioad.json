@@ -1,4 +1,4 @@
 {
-  "openedBanner" : true,
-  "openedInterstitial" : false
+  "openedBanner" : false,
+  "openedInterstitial" : true
 }
